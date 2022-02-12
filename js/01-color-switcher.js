@@ -30,7 +30,7 @@ stopElBtn.addEventListener("click", () => {
 
   startElBtn.removeAttribute('disabled');
   stopElBtn.setAttribute('disabled', '');
-});
+});тз
 
 
  
